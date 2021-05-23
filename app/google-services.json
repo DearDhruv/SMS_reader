@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954874604222",
+    "project_id": "sms-reader-fwd",
+    "storage_bucket": "sms-reader-fwd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954874604222:android:9f6233e38c3e518843ccef",
+        "android_client_info": {
+          "package_name": "com.deardhruv.smsreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954874604222-usmf9pojqvjif5mnteog6157v92nbtsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7vd7GFlvOaGk8nxm9NDRUt4N60phgGG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954874604222-usmf9pojqvjif5mnteog6157v92nbtsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
